@@ -57,3 +57,21 @@ input{
 #total{
     text-align: centers;
 }
+
+#followtext{
+    margin-left: 500px;
+    margin-right: 10px;
+    padding: 3px;
+    font-weight: bold;
+    font-size: large;
+    text-decoration: underline;
+    color:gold;
+    font-family: 'Roboto Slab', serif;
+}
+
+i{
+    width: 25px;
+    color: gold;
+    
+}
+
